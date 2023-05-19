@@ -1,0 +1,23 @@
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 1.5em;
+}
+
+.cucumber {
+  background-color: green;
+}
+
+.carrot {
+  background-color: orange;
+}
+
+.broccoli {
+  background-color: rgb(169, 207, 184);
+}
+
+.mushroom {
+  background-color: rgb(90, 32, 32);
+}
