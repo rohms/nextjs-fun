@@ -7,17 +7,17 @@ const Broccoli = () => {
       <p>
         Bro bro broccoli, you the king on the block,
         <br />
-        Straight up gangsta veggie, ain't no need to talk.
+        Straight up gangsta veggie, ain&apos;t no need to talk.
         <br />
         With that green on your crown, you stand tall and proud,
         <br />
-        Holdin' it down in the veggie crowd.
+        Holdin&apos; it down in the veggie crowd.
       </p>
 
       <p>
         You got that street cred, packed with nutrients and might,
         <br />
-        Keepin' it real, bringin' that healthy fight.
+        Keepin&apos; it real, bringin&apos; that healthy fight.
         <br />
         From the concrete jungle to the kitchen stove,
         <br />
@@ -27,19 +27,19 @@ const Broccoli = () => {
       <p>
         Your florets so fresh, like bling on a chain,
         <br />
-        Crisp and flavorful, ain't nothin' plain.
+        Crisp and flavorful, ain&apos;t nothin&apos; plain.
         <br />
-        Toss 'em in a stir-fry, sizzlin' hot,
+        Toss &apos;em in a stir-fry, sizzlin&apos; hot,
         <br />
-        Addin' that crunch, hittin' the spot.
+        Addin&apos; that crunch, hittin&apos; the spot.
       </p>
 
       <p>
-        You're the secret weapon, a nutritional thug,
+        You&apos;re the secret weapon, a nutritional thug,
         <br />
         Vitamin C, K, and antioxidants, no shrug.
         <br />
-        Boostin' our immune system, keepin' us fit,
+        Boostin&apos; our immune system, keepin&apos; us fit,
         <br />
         bro bro broccoli, you the ultimate hit.
       </p>
@@ -47,11 +47,11 @@ const Broccoli = () => {
       <p>
         So raise it up, give a shout-out to the boss,
         <br />
-        broccoli representin', never takin' a loss.
+        broccoli representin&apos;, never takin&apos; a loss.
         <br />
-        In the world of veggies, you're the real OG,
+        In the world of veggies, you&apos;re the real OG,
         <br />
-        bro bro broccoli, livin' that gangsta legacy!
+        bro bro broccoli, livin&apos; that gangsta legacy!
       </p>
       <Link href="/">Go Back</Link>
     </div>

@@ -18,7 +18,7 @@ const Mushrooms = () => {
 
       <p>
         Beyond their aesthetic appeal, mushrooms play a crucial role in
-        ecosystems, acting as nature's recyclers. They break down decaying
+        ecosystems, acting as nature&apos;s recyclers. They break down decaying
         organic matter, releasing vital nutrients back into the soil, nurturing
         the cycle of life. Yet, while some mushrooms serve as delicious culinary
         delights, others hide potent secrets within their caps, concealing both
@@ -29,15 +29,15 @@ const Mushrooms = () => {
         Now, for a bizarre twist: Did you know that mushrooms are more closely
         related to humans than to plants? Yes, you read that right. Fungi,
         including mushrooms, share a closer evolutionary lineage with humans
-        than with the green kingdom. It's a peculiar connection that highlights
-        the fascinating intricacies of life on this planet.
+        than with the green kingdom. It&apos;s a peculiar connection that
+        highlights the fascinating intricacies of life on this planet.
       </p>
 
       <p>
         So next time you stumble upon a mushroom during a woodland stroll, take
         a moment to ponder its mysterious existence. In this seemingly simple
-        organism, lies a testament to nature's complexity and a reminder that
-        the world around us is full of astonishing wonders, waiting to be
+        organism, lies a testament to nature&apos;s complexity and a reminder
+        that the world around us is full of astonishing wonders, waiting to be
         discovered.
       </p>
       <Link href="/">Go Back</Link>

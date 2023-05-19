@@ -26,10 +26,10 @@ const Cucumber = () => {
         <br />
         It was loved by a few,
         <br />
-        Oh, cucumber, you're quite the veggie, it's true!
+        Oh, cucumber, you&apos;re quite the veggie, it&apos;s true!
       </p>
       <p>
-        From salads to pickles, you're grand,
+        From salads to pickles, you&apos;re grand,
         <br />
         A veggie so versatile, oh so in demand.
         <br />
@@ -40,26 +40,26 @@ const Cucumber = () => {
         Cucumber, the champion in hand!
       </p>
       <p>
-        In the summer heat, you're a savior,
+        In the summer heat, you&apos;re a savior,
         <br />
         Refreshing and cool, our flavor savor.
         <br />
-        Low in calories, you're light,
+        Low in calories, you&apos;re light,
         <br />
-        A snack that's just right,
+        A snack that&apos;s just right,
         <br />
-        Cucumber, you're everyone's favorite flavor!
+        Cucumber, you&apos;re everyone&apos;s favorite flavor!
       </p>
       <p>
-        So here's to you, cucumber divine,
+        So here&apos;s to you, cucumber divine,
         <br />
         In the veggie world, you brightly shine.
         <br />
         With your limerick complete,
         <br />
-        You're a treat we'll always greet,
+        You&apos;re a treat we&apos;ll always greet,
         <br />
-        Cucumber, oh cucumber, you're simply sublime!
+        Cucumber, oh cucumber, you&apos;re simply sublime!
       </p>
 
       <Link href="/">Go Back</Link>

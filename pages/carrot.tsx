@@ -34,7 +34,7 @@ const Carrot = () => {
       </p>
 
       <p>
-        Carved by nature's patient hand,
+        Carved by nature&apos;s patient hand,
         <br />
         In soups and salads, you command.
         <br />
