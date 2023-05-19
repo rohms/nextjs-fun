@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+
+![cooking](https://github.com/rohms/nextjs-fun/assets/86847314/1b7d0918-1358-4e5a-aa6c-3ac6fe7c56ce)
+
+And awesome info!
+
+![broccoli](https://github.com/rohms/nextjs-fun/assets/86847314/60b69575-26bc-48f5-ba57-214282261102)
+
 First, run the development server:
 
 ```bash
