@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+You can find this project here: https://leafy-taiyaki-a809ae.netlify.app/
 
 ![cooking](https://github.com/rohms/nextjs-fun/assets/86847314/1b7d0918-1358-4e5a-aa6c-3ac6fe7c56ce)
 
